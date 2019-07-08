@@ -1,1 +1,1 @@
-# Quick-Bank-Analysis
+# Analysis-via-for-loop-in-Python
